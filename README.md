@@ -13,7 +13,3 @@
 > 🦾 Улучшать себя и окружающую среду вокруг.
 
 Всем добра и позитива!💎
-
-## Статистика:
-
-![Sergey Polenov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sengeer&show_icons=true&hide=contribs,prs&theme=jolly)
