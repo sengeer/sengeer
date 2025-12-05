@@ -4,16 +4,15 @@
 
 ---
 
-Являюсь действующим full stack middle веб-разработчиком. Всем добра и позитива!💎
+Являюсь full stack middle веб-разработчиком.
 
 ### К чему стремлюсь:
 
 > 🗿 К эстетике в веб-разработке;\
 > 🦸🏻‍♂ Становиться эффективным во всех смыслах;\
-> 🦾 Улучшать себя и окружающую среду вокруг;
+> 🦾 Улучшать себя и окружающую среду вокруг.
 
-### Стек:
-[<img alt="Иконка HTML" width="40" height="40" src="/assets/icons/icon-html.png" />](https://developer.mozilla.org/ru/docs/Web/HTML "Документация HTML") [<img alt="Иконка CSS" width="40" height="40" src="/assets/icons/icon-css.png" />](https://developer.mozilla.org/ru/docs/Web/CSS "Документация CSS") [<img alt="Иконка SASS" width="40" height="40" src="/assets/icons/icon-sass.png" />](https://sass-lang.com/ "Документация SASS") [<img alt="Иконка JavaScript" width="40" height="40" src="/assets/icons/icon-javascript.png" />](https://learn.javascript.ru/ "Учебник JavaScript") [<img alt="Иконка TypeScript" width="40" height="40" src="/assets/icons/icon-typescript.png" />](https://scriptdev.ru/guide/ "Справочник TypeScript") [<img alt="Иконка React.js" width="40" height="40" src="/assets/icons/icon-react.png" />](https://ru.legacy.reactjs.org/docs/getting-started.html "Документация React.js") [<img alt="Иконка Redux Toolkit" width="40" height="40" src="/assets/icons/icon-redux.png" />](https://redux-toolkit.js.org/ "Документация Redux Toolkit") [<img alt="Иконка Node.js" width="40" height="40" src="/assets/icons/icon-nodejs.png" />](https://nodejs.org/api/all.html "Документация Node.js") [<img alt="Иконка Express" width="40" height="40" src="/assets/icons/icon-express.png" />](https://expressjs.com/ru/api.html#express "Документация Express") [<img alt="Иконка MongoDB" width="40" height="40" src="/assets/icons/icon-mongodb.png" />](https://www.mongodb.com/ "MongoDB") [<img alt="Иконка Mongoose" width="40" height="40" src="/assets/icons/icon-mongoose.png" />](https://mongoosejs.com/docs/guide.html "Документация Mongoose") [<img alt="Иконка Docker" width="40" height="40" src="/assets/icons/icon-docker.png" />](https://docs.docker.com/ "Документация Docker") [<img alt="Иконка Webpack" width="40" height="40" src="/assets/icons/icon-webpack.png" />](https://webpack.js.org/concepts/ "Документация Webpack")
+Всем добра и позитива!💎
 
 ## Статистика:
 
