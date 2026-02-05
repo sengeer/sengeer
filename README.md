@@ -4,12 +4,12 @@
 
 ---
 
-Являюсь full stack middle веб-разработчиком.
+I am a full‑stack middle web developer.
 
-### К чему стремлюсь:
+### What I strive for:
 
-> 🗿 К эстетике в веб-разработке;\
-> 🦸🏻‍♂ Становиться эффективным во всех смыслах;\
-> 🦾 Улучшать себя и окружающую среду вокруг.
+> 🗿 Aesthetics in web development;\
+> 🦸🏻‍♂ Becoming effective in every sense;\
+> 🦾 Improving myself and the environment around me.
 
-Всем добра и позитива!💎
+Wishing everyone goodness and positivity!💎
